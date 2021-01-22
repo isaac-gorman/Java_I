@@ -38,15 +38,27 @@
 
 
 #### Q: What is Figure 1.1 depecting? 
+- A: *The diagram is communicating how data is passed around the basic hardware components*
+- A: *Secondary Storage*
+- A: *Main Storage - Hard Disk*
+- A: *CPU executing copied progam line by line*
+- A: *Input Device - inputing data into the program that is excuted by the CPU*
+- A: *Output Device - outputing the prodcut of the executed progam with the data entered by the input device*
 
 
-#### Q: Draw out a very abstracted version of a computer system
+#### Q: What are the steps of how software is executed by a computer system? 
+- Step 0: *I instruct the computer to execute software*
+- Step 1: *Secondary Storage: The software is stored on some secondary devices, such as the hard disk*
+- Step 2: *Copy Migration: A copy of the of the program I want to run on the software is brought into main memory form secondary memory*
+- Step 3: *CPU Reads the program: The CPU reads the programs indiviudal instructions from main memory*
+- Step 4: *CPU Procedually Executes Progam: CPU begins to execute the program line by line until the program ends. Memory the program is using such as two numbers its adding togther is also stored in main memory. This data is brought in either by from a secondary storage device or a read form an I/O device such as a keyboard. During executing the Output may be dispalyed by an Output device such as a monitor*
 
 
-## Key Concept: The CPU read the programs instructions from main memory, executing ...
+## Key Concept: The CPU read the programs instructions from main memory, executing the program line by line till the progam ends. 
 
 
 #### Q: The process of executing a program is fundemental to what? 
+- A: *The process of executing a progam is fundemental to a the operation of a computer. To some degree all computer basically function this way. Storing progams in a secondary bus, copying it over to the main disk, and excuting the program line by line it's CPU while taking in certain inputs form a Input device, and excuting the progam with the inputed data, then outputing said data on to a output device*
 
 
 
