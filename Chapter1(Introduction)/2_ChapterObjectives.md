@@ -12,6 +12,6 @@
 ##### Q: What is the book about? 
 This book is about writing well-designed software.Understanding how the role of software in a computer system, as a computers hardware and software work harmoniously to accomplish complex task. Strive to understand the purpose of how hardware components connect into networks as my a first step into a more functional understanding of software development. 
 
-#### Q: How will the material of this chapterbe precented? 
+#### Q: How will the material of this chapter be precented? 
 Begining from basic computer processing - to software development with Java and OOP. 
 

@@ -2,7 +2,7 @@
 
 
 #### Q: What do all computers system have in common? 
-- A: *Computers all process data in a similar way. Before understand how to develop software, take a step back and attemp to understand how a computer process data, and how key components of the computer systems hardware interact to execute my program*
+- A: *Computers all process data in a similar way. Before I understand how to develop software, I need to take a step back and attempt to understand how a computers process data, and how key components of the computer systems hardware interact to execute my program*
 
 
 #### Q: What is a computer system made up of? 
@@ -15,7 +15,7 @@
 
 #### Q: Why is a computer systems hardware useless with out instructions to direct them? 
 - A: *A program: is a series of instructions that hardware execute one after another "procedually"*
-- A: *Software is made up or programs and the data or information that the program uses. Software is jelly to hardwares peanut butter and bread. They are intengible counterparts. Togther they make Batman and Robbin, a bad ass due we can use as a tool to solve problems*
+- A: *Software is made up or programs and the data or information that the program uses. Software is jelly to hardwares peanut butter and bread. They are intengible counterparts. Togther they make Batman and Robbin, a bad ass dueo we can use as a tool to solve problems*
 
 
 #### Q: What are the four main hardware components of a computer system? 
