@@ -9,8 +9,8 @@
 #### Q: What is Figure 1.8 depicting? 
 - A: *The chart is depecting the hardware specifications of a computer which are:*
 - - : *CPU: Intel Dua-Core i7 processor*
-- - : *Primary Memory: 4GB memory*
+- - : *Main Memory: 4GB memory*
 - - : *Secondary Memory: 750GB hard drive*
 - - : *Output Device: 15.6 HD display*
-- - : *802.11 wireless card*
+- - : *Data Transfer Device: (WIFI and Wirless Radio network card) 802.11 wireless card*
 
