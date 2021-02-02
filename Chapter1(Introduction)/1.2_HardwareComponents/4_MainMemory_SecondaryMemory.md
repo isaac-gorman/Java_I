@@ -126,6 +126,6 @@ pg 13
 
 
 #### Q: What is good rule for the advancment of storage capacity?
-- A: *Stograge capacity doubles every 18 months*
+- A: *Storage capacity doubles every 18 months*
 
 
